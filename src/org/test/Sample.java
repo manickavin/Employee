@@ -10,6 +10,11 @@ public class Sample {
 		
 		System.out.println("Python");
 		
+		String s="welcome";
+		
+		System.out.println(s.charAt(5));
+		
+		
 	}
 
 }
